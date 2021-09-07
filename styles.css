@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #E6DDC6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    margin: 2rem 0 10rem;
+    width: 250px;
+    padding: 1rem;
+    border: #515E63;
+    background: #A7C4BC;
+}
+button:hover{
+    background-color: #79B4B7;
+    cursor: pointer;
+}
+.title{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', cursive;
+    margin: 10rem 3rem 5rem;
+    font-size: 10rem;
+    color: #57837B;
+}
+.text-in-button{
+    font-family: 'Indie Flower', cursive;
+    font-size: xx-large;
+    font-weight: 900;
+}
+.fucku{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 6rem;
+    margin: 6rem 2rem;
+    color: #11324D;
+}
+.pardon{
+    font-family: 'Indie Flower', cursive;
+    margin: 1rem 0;
+}
+audio{
+    margin: 1rem;
+}
+a{
+    text-decoration: none;
+    color: #79B4B7;
+    margin: 3rem 0;
+}
